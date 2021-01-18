@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="txt_panjang">Length</string>
+    <string name="txt_lebar">Width</string>
+    <string name="txt_tinggi">Height</string>
+    <string name="txt_hitung">Calculate</string>
+    <string name="txt_result">Result</string>
+    <string name="txt_error">Harus diisi ya bund !</string>
+</resources>
